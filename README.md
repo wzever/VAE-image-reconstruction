@@ -26,6 +26,7 @@ Old and young:
 ![frame](imgs/fusion2.png)
 
 ### Run codes
+Note that you may need to manually download the LFW dataset first via [this link](https://drive.google.com/uc?id=1LhptLOva-ZAQaS1T2UDFfyPVy0T538G9&export=download), and place the unzipped folder under directory `dataset`.
 - Train model with tuned parameters
 ```
 python train.py
