@@ -1,6 +1,8 @@
 # VAE Image Reconstruction & Generation
 Course project (optional task 1) of SJTU CS3612: Machine Learning, 2023 spring.
 
+**Attention: Discussion & reference welcomed, but ***NO PLAGIARISM*** !!!**
+
 ### Task objective
 - You should design and train a VAE on LFW dataset.
 - You should use Linear interpolation to generate images with specific properties.
